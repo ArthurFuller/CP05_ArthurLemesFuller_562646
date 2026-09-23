@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="pokemoncard" size="736.000000 1025.000000" />
+  </Tracking>
+</QCARConfig>
